@@ -13,7 +13,7 @@ Result.propTypes = {
 };
 
 Result.defaultProps = {
-  value: '10'
+  value: ' '
 }
 
 export default Result;
